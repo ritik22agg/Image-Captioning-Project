@@ -2,7 +2,14 @@
 
 <p > This Project is build using Neural Network. This Project takes an image as input and generates a description or caption using it</p>
 
-<h1> <strong> Dataset And Intermediate Data Drive link </strong> <h1>
+<h1> <strong> Dataset And Intermediate Data Drive link </strong> </h1>
+
+  <ul>
+  <li><strong> Flicker8k_Dataset : </strong> https://www.kaggle.com/ming666/flicker8k-dataset</li>
+  <li><strong>Images.npy : </strong>https://drive.google.com/open?id=1-JmbALCZ9a6ZjMzOO8fgChEiW9YvNZNb</li>
+  <li><strong>Captions.npy : </strong> https://drive.google.com/open?id=1-JmbALCZ9a6ZjMzOO8fgChEiW9YvNZNb</li>
+  <li><strong>Next_word.npy : </strong>https://drive.google.com/open?id=1-GTdWER36WOd_ieAUsjvylj8gZR0A3iF</li>
+  </ul>
 
 <h1> <strong> DESIGN </strong> </h1>
 
